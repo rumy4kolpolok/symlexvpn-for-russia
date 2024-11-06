@@ -1,6 +1,6 @@
 # symlexvpn-for-russia
 
-Download windows from here - https://symlexvpn.net/symlexvpn4windows.zip
+Download windows from here - https://symlexvpn.com/symlexvpn4windows.zip
 
 Download android from here - https://play.google.com/store/apps/details?id=app.kismyo.vpn
 
